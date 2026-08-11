@@ -81,7 +81,7 @@
     "sharp": "^0.34.5",
     "sonner": "^1.5.0",
     "sqlstring": "^2.3.3",
-    "tailwind-merge": "^2.2.2",
+    "tailwind-merge": "^3.6.0",
     "tailwindcss-animate": "^1.0.7",
     "tiny-cookie": "^2.5.1",
     "zustand": "^4.5.2"
